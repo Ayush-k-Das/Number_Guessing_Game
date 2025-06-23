@@ -23,4 +23,6 @@ The user selects a difficulty level, and attempts to guess a randomly generated 
 ```bash
 python number_guessing_game.py
 
-Project URL : https://github.com/Ayush-k-Das/Number_Guessing_Game
+## 🔗 Project URL
+
+[https://github.com/Ayush-k-Das/Number_Guessing_Game](https://github.com/Ayush-k-Das/Number_Guessing_Game)
