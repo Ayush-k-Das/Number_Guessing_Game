@@ -25,4 +25,4 @@ python number_guessing_game.py
 
 ## 🔗 Project URL
 
-[https://github.com/Ayush-k-Das/Number_Guessing_Game](https://github.com/Ayush-k-Das/Number_Guessing_Game)
+https://roadmap.sh/projects/number-guessing-game
